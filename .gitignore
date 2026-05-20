@@ -1,13 +1,1 @@
-# Arquivos compilados do Python
-__pycache__/
-*.py[cod]
-*$py.class
 
-# Ambientes Virtuais (caso você crie um)
-venv/
-env/
-.venv/
-
-# Arquivos de sistema operacional (Mac/Windows)
-.DS_Store
-Thumbs.db
