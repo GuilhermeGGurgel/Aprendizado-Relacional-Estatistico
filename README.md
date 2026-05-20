@@ -11,7 +11,7 @@ Antes de executar, você precisará ter instalado em sua máquina:
 
 ---
 
-## Como Executar (How-To)
+## Como Executar 
 
 Siga os passos abaixo para reproduzir a análise:
 
