@@ -3,7 +3,7 @@
 Aluno: Guilherme Grijo Gurgel Costa Rego - 22352042
 ---
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 Antes de executar, você precisará ter instalado em sua máquina:
 * **Python 3.8+**
@@ -11,7 +11,7 @@ Antes de executar, você precisará ter instalado em sua máquina:
 
 ---
 
-## 🚀 Como Executar (How-To)
+## Como Executar (How-To)
 
 Siga os passos abaixo para reproduzir a análise:
 
@@ -32,7 +32,7 @@ python main.py
 
 ---
 
-## 📊 Resultado Esperado
+## Resultado Esperado
 
 Ao executar o script, o sistema fará a extração do grau de risco lógico e o treinamento estatístico. A saída no terminal deverá ser semelhante a esta:
 
